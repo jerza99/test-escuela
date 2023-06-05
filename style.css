@@ -1,0 +1,16 @@
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.container .text {
+  text-align: center;
+}
+
+.container p {
+  font-weight: bold;
+  color: #0f6bb7;
+  font-size: 22px;
+}
